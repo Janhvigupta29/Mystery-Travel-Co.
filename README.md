@@ -11,7 +11,7 @@ Welcome to **Mystery Travel Co.**, a creative and interactive travel website tha
 
 ## Deployment
 This project is deployed via **GitHub Pages** and is live at:  
-🔗 [https://janhvigupta29.github.io/Mystery-Travel-Co/](https://janhvigupta29.github.io/Mystery-Travel-Co/)
+🔗 https://janhvigupta29.github.io/Mystery-Travel-Co./
 
 ## How to Use
 1. Visit the link above.
